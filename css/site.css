@@ -1,0 +1,6 @@
+
+body {
+    height: 100vh;
+    background-color: #373b44; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right, #373b44, #4286f4);
+}
